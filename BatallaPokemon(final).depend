@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1613561295 source:c:\users\admin\desktop\trabajos nico\programación\batallapokemon(final)\main.cpp
+	<iostream>
+	<list>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<string>
+	"Pokemon.h"
+	"Pikachu.h"
+	"Bulbasaur.h"
+	"Charmander.h"
+	"Squirtle.h"
+	"Psyduck.h"
+	"Buizel.h"
+	"GeneradorAleatorio.h"
+	"Entrenadores.h"
+
+1608017555 source:c:\users\admin\desktop\trabajos nico\programación\batallapokemon(final)\generadoraleatorio.cpp
+	"GeneradorAleatorio.h"
+
+1613262383 c:\users\admin\desktop\trabajos nico\programación\batallapokemon(final)\generadoraleatorio.h
+	<time.h>
+	<windows.h>
+
+1613521163 c:\users\admin\desktop\trabajos nico\programación\batallapokemon(final)\pokemon.h
+	<string>
+
+1611462494 c:\users\admin\desktop\trabajos nico\programación\batallapokemon(final)\pikachu.h
+	"Pokemon.h"
+	<time.h>
+	<windows.h>
+
+1613522051 c:\users\admin\desktop\trabajos nico\programación\batallapokemon(final)\bulbasaur.h
+	"Pokemon.h"
+	<time.h>
+	<windows.h>
+	<string>
+
+1611462494 c:\users\admin\desktop\trabajos nico\programación\batallapokemon(final)\charmander.h
+	"Pokemon.h"
+	<string>
+
+1611462856 c:\users\admin\desktop\trabajos nico\programación\batallapokemon(final)\squirtle.h
+	"Pokemon.h"
+	<time.h>
+	<windows.h>
+	<string>
+
+1611463069 c:\users\admin\desktop\trabajos nico\programación\batallapokemon(final)\psyduck.h
+	"Pokemon.h"
+	<string>
+
+1611463416 c:\users\admin\desktop\trabajos nico\programación\batallapokemon(final)\buizel.h
+	"Pokemon.h"
+	<time.h>
+	<windows.h>
+	<string>
+
+1611284956 source:c:\users\admin\desktop\trabajos nico\programación\batallapokemon(final)\entrenadorazul.cpp
+	"EntrenadorAzul.h"
+	"Pokemon.h"
+	<conio.h>
+
+1611284881 c:\users\admin\desktop\trabajos nico\programación\batallapokemon(final)\entrenadorazul.h
+	"Pokemon.h"
+	<list>
+	<iostream>
+
+1613531465 c:\users\admin\desktop\trabajos nico\programación\batallapokemon(final)\entrenadores.h
+	"Pokemon.h"
+	"Pikachu.h"
+	"Bulbasaur.h"
+	"Charmander.h"
+	"Squirtle.h"
+	"Psyduck.h"
+	"Buizel.h"
+	"GeneradorAleatorio.h"
+	<list>
+	<string>
+	<iostream>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
